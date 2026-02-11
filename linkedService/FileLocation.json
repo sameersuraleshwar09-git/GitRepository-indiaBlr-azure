@@ -1,0 +1,17 @@
+{
+	"name": "FileLocation",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\ADF\\CRM+Sales+Opportunities",
+			"userId": "sameerahamad.suraleshwar@in.ey.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzZWNiYThhMi1mNDE2LTRlNmUtOWVhNi0xZmM3YjMxMjAyMTgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "onPremToIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

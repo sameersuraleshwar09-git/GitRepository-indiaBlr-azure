@@ -1,0 +1,9 @@
+{
+	"name": "azureindiablrfactory",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "169776cc-edd3-443d-95d1-7bb83884cf23",
+		"tenantId": "c7b2bf05-0d0e-49c4-bebc-2f8c80541791"
+	}
+}
