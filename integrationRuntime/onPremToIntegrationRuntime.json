@@ -1,6 +1,0 @@
-{
-	"name": "onPremToIntegrationRuntime",
-	"properties": {
-		"type": "SelfHosted"
-	}
-}
